@@ -31,13 +31,13 @@ This covers most of the introductory part to linux with details on command-line.
     
     **man** - this gives you a detailed description of a command.
     
-    **rmdir** - removes an empty directory. A variation or the rm command can be 'rm -rf dir_name'.
+    **rmdir** - removes an empty directory. A variation or the rm command can be 'rm -rf dir_name'. This rm comand is used to remove files and directories with files inside.
     
     **tab** - this autocompletes names of files or directories allowing you to save on time.
     
     **touch** - creating empty files that we want to work with.
     
-    **mv** - moves files in between directories, indication the destination to move the files. In other cases renames files.
+    **mv** - moves files in between directories, indication the destination to move the files. It is also used to rename files.
     
     **
     
