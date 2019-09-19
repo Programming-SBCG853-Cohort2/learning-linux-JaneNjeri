@@ -55,7 +55,7 @@ This covers most of the introductory part to linux with details on command-line.
     
     **grep** - looks into a file, acting like a search tool. There are a number of variations used with this command using the command-line options like -i, -w etcetera.
     
-    **curl** - downloads the contents of a file and print it out as STDOUT.
+    **curl** - downloads the contents of a file and print it out as standard out.
     
     
     
