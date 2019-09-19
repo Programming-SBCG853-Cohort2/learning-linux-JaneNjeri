@@ -26,8 +26,8 @@ This covers most of the introductory part to linux with details on command-line.
     **ls -l** - lists the contents of a dir with extra information about the files.
     
     **ls -al** - lists all contents including hidden files. 
-       
-       - There are other variations of the ls command.
+    
+    - There are other variations of the ls command.
     
     **man** - this gives you a detailed description of a command.
     
