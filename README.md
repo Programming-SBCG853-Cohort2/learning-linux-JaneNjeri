@@ -43,6 +43,18 @@ This covers most of the introductory part to linux with details on command-line.
     
     **cp** - copies files, which is like moving files but you remain with copy (keeping in mind source and target). This command can also be applied to copy directories but uses the command-line options -R or -r, to mean recursively.
     
+    **less** - views contents of a text file one page at a time.
+    
+    **cat** - displays the contents of a file. This command can be used to combine multiple files and as well make copy of an existing file with the use of a greater than sign (>).
+    
+    **wc** - this is a word count command, which enables one to count words, characters or even lines in file. Different variations can be used like the wc -l command.
+    
+    **nano** - edits the contents within a file, mainly small text files.
+    
+    **echo** - add lines to a text file, and also can be used to display contents of the environment variables designated with a dollar sign.
+    
+    **grep** - 
+    
     
     
    
