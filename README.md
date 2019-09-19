@@ -37,8 +37,12 @@ This covers most of the introductory part to linux with details on command-line.
     
     **touch** - creating empty files that we want to work with.
     
-    **mv** - moves files in between directories, indication the destination to move the files. It is also used to rename files.
+    **mv** - moves files or directories in between directories, indication the destination to move the files. It is also used to rename files. When using an asterisk, you tell your computer to pick anything that either has specific letters or starts with or ends with.
     
-    **
+    **rm** - enables one to remove files and directories. Use of -i is very key in ensuring you get a confirmation before deleting anything.
+    
+    **cp** - copies files, which is like moving files but you remain with copy (keeping in mind source and target). This command can also be applied to copy directories but uses the command-line options -R or -r, to mean recursively.
+    
+    
     
    
