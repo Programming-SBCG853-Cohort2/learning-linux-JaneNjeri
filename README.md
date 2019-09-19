@@ -45,7 +45,11 @@ This covers most of the introductory part to linux with details on command-line.
     
     **less** - views contents of a text file one page at a time.
     
-    **cat** - displays the contents of a file. This command can be used to combine multiple files and as well make copy of an existing file with the use of a greater than sign (>).
+    **head** - lists first ten contents of a file.
+    
+    **tail** - displays the last ten contents of a file.
+    
+    **cat** - displays the contents of a file. This command can be used to combine multiple files and as well make copy of an existing file with the use of a greater than character (>).
     
     **wc** - this is a word count command, which enables one to count words, characters or even lines in file. Different variations can be used like the wc -l command.
     
@@ -55,8 +59,12 @@ This covers most of the introductory part to linux with details on command-line.
     
     **grep** - looks into a file, acting like a search tool. There are a number of variations used with this command using the command-line options like -i, -w etcetera.
     
-    **curl** - downloads the contents of a file and print it out as standard out.
+    **curl** - downloads the contents of a file and print it out as a standard output.
     
+    **pipe** - this command puts the contents of a file into another through different commands.
     
+    **cut** - extracts contents of a file specified by a given number.
+    
+    **sed** - this command substitutes or replaces names in files or directories.
     
    
