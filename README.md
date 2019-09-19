@@ -53,7 +53,9 @@ This covers most of the introductory part to linux with details on command-line.
     
     **echo** - add lines to a text file, and also can be used to display contents of the environment variables designated with a dollar sign.
     
-    **grep** - 
+    **grep** - looks into a file, acting like a search tool. There are a number of variations used with this command using the command-line options like -i, -w etcetera.
+    
+    **curl** - downloads the contents of a file and print it out as STDOUT.
     
     
     
